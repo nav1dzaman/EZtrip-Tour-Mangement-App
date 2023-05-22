@@ -86,12 +86,13 @@ Do payment with any type of method(Card/Paypal)
 
 <h3>Home Page </h3>
 <img width="450" alt="Screenshot 2023-05-14 185252" src="https://github.com/navz99/EZtrip-Tour-Mangement-App/assets/91715504/dd3d3796-7d16-4b58-87a1-af70d68db3de">
-<img width="450" alt="Screenshot 2023-05-14 185322" src="https://github.com/navz99/EZtrip-Tour-Mangement-App/assets/91715504/9e04e11c-45b9-4333-9b77-c259d3252ec5">
+<br>
+<img width="450" alt="Screenshot 2023-05-14 185322" src="https://github.com/navz99/EZtrip-Tour-Mangement-App/assets/91715504/9e04e11c-45b9-4333-9b77-c259d3252ec5"><br>
 <img width="450" alt="Screenshot 2023-05-14 185515" src="https://github.com/navz99/EZtrip-Tour-Mangement-App/assets/91715504/04a961d0-65be-4bba-be2b-d4e669b66b54">
 
 
 <h3>Booking Page </h3>
-<img width="450" alt="Screenshot 2023-05-14 185555" src="https://github.com/navz99/EZtrip-Tour-Mangement-App/assets/91715504/79a84a5c-ac4d-46bb-a179-0affd42acdb1">
+<img width="450" alt="Screenshot 2023-05-14 185555" src="https://github.com/navz99/EZtrip-Tour-Mangement-App/assets/91715504/79a84a5c-ac4d-46bb-a179-0affd42acdb1"><br>
 <img width="450" alt="Screenshot 2023-05-14 185626" src="https://github.com/navz99/EZtrip-Tour-Mangement-App/assets/91715504/b0a8cb25-c08e-47c1-8203-0692fa7bc592">
 
 
