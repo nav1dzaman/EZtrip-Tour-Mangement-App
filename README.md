@@ -3,86 +3,86 @@ A tour mangement web app , developed using MERN stack
 
 Live Link :- https://glorious-jade-tux.cyclic.app/
 
-Technology we used:
- {Backend}
-   -Node Js
-   -Express
-   -MongoDB
+Technology we used:<br>
+ {Backend}<br>
+   -Node Js<br>
+   -Express<br>
+   -MongoDB<br>
 
- {Frontend}
-   -React Js
-   -HTML,Bootstrap 5
+ {Frontend}<br>
+   -React Js<br>
+   -HTML,Bootstrap 5<br>
 
- {Apis}
-  - Context api
-  - REST api
-  - BrainTree (Payment Gateway)
+ {Apis}<br>
+  - Context api<br>
+  - REST api<br>
+  - BrainTree (Payment Gateway)<br>
 
 
-Project Running process :
+Project Running process :<br>
 
-create environment variable (.env) file to backend directory and put your config 
-   PORT= your port
-   JWT_SECRET=put your token
-   MONGO_URL=put your mongo link
-   BRAINTREE_MERCHANT_ID=put yout braintree marchant id
-   BRAINTREE_PUBLIC_KEY=put your braintree public key
-   BRAINTREE_PRIVATE_KEY=put your braintree private key
+create environment variable (.env) file to backend directory and put your config <br>
+   PORT= your port<br>
+   JWT_SECRET=put your token<br>
+   MONGO_URL=put your mongo link<br>
+   BRAINTREE_MERCHANT_ID=put yout braintree marchant id<br>
+   BRAINTREE_PUBLIC_KEY=put your braintree public key<br>
+   BRAINTREE_PRIVATE_KEY=put your braintree private key<br>
 
  
 
-  - goto project directory 
-       cd EZtrip
-  - goto backend directory
-       cd backend
-  - install backend dependencies
-       npm install
-  - run the server
-       npm run server 
-  - got to frontend directory
-       cd .. & cd frontend
-  - install front dependencies
-       npm install
-  - run the client side
-        npm run server
+  - goto project directory <br>
+       cd EZtrip<br>
+  - goto backend directory<br>
+       cd backend<br>
+  - install backend dependencies<br>
+       npm install<br>
+  - run the server<br>
+       npm run server <br>
+  - got to frontend directory<br>
+       cd .. & cd frontend<br>
+  - install front dependencies<br>
+       npm install<br>
+  - run the client side<br>
+        npm run server<br>
 
-BACKEND DEPENDENCIES
-    -bcrypt
-    -braintree
-    -colors
-    -concurrently
-    -cors
-    -dotenv
-    -express
-    -express-formidable
-    -jsonwebtoken
-    -mongoose
-    -morgan
-    -nodemon
-    -react-icons
-    -slugify
-FRONTEND DEPENDENCIES  
-    -antd
-    -axios
-    -braintree-web-drop-in-react
-    -moment
-    -react-dom
-    -react-helmet
-    -react-hot-toast
-    -react-router-dom
-    -react-scripts
-    -react-slideshow-image
-    -react-toastify
-    -rsuite
-    -web-vitals
+BACKEND DEPENDENCIES<br>
+    -bcrypt<br>
+    -braintree<br>
+    -colors<br>
+    -concurrently<br>
+    -cors<br>
+    -dotenv<br>
+    -express<br>
+    -express-formidable<br>
+    -jsonwebtoken<br>
+    -mongoose<br>
+    -morgan<br>
+    -nodemon<br>
+    -react-icons<br>
+    -slugify<br>
+FRONTEND DEPENDENCIES  <br>
+    -antd<br>
+    -axios<br>
+    -braintree-web-drop-in-react<br>
+    -moment<br>
+    -react-dom<br>
+    -react-helmet<br>
+    -react-hot-toast<br>
+    -react-router-dom<br>
+    -react-scripts<br>
+    -react-slideshow-image<br>
+    -react-toastify<br>
+    -rsuite<br>
+    -web-vitals<br>
 
 
-Features-
-Login and Sign up with cookies and JWTWEBTOKEN
-Search engine to search destination
-Sorting of flights as his price
-Purchase the Product
-Do payment with any type of method(Card/Paypal)
+Features-<br>
+Login and Sign up with cookies and JWTWEBTOKEN<br>
+Search engine to search destination<br>
+Sorting of flights as his price<br>
+Purchase the Product<br>
+Do payment with any type of method(Card/Paypal)<br>
 
 <h3>Home Page </h3>
 <img width="450" alt="Screenshot 2023-05-14 185252" src="https://github.com/navz99/EZtrip-Tour-Mangement-App/assets/91715504/dd3d3796-7d16-4b58-87a1-af70d68db3de">
