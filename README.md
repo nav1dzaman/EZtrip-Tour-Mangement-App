@@ -1,6 +1,7 @@
 # EZtrip-Tour-Mangement-App
 A tour mangement web app , developed using MERN stack
-EZtrip - A travel management App
+
+Live Link :- https://glorious-jade-tux.cyclic.app/
 
 Technology we used:
  {Backend}
