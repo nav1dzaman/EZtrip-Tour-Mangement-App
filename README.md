@@ -85,14 +85,15 @@ Purchase the Product
 Do payment with any type of method(Card/Paypal)
 
 <h3>Home Page </h3>
-![Screenshot 2023-05-14 185252](https://github.com/navz99/EZtrip-Tour-Mangement-App/assets/91715504/3d52899c-68f1-42e1-8db0-202365c88207)
-![Screenshot 2023-05-14 185322](https://github.com/navz99/EZtrip-Tour-Mangement-App/assets/91715504/8106ab57-2127-412c-9774-de8179759944)
+<img width="450" alt="Screenshot 2023-05-14 185252" src="https://github.com/navz99/EZtrip-Tour-Mangement-App/assets/91715504/dd3d3796-7d16-4b58-87a1-af70d68db3de">
+<img width="450" alt="Screenshot 2023-05-14 185322" src="https://github.com/navz99/EZtrip-Tour-Mangement-App/assets/91715504/9e04e11c-45b9-4333-9b77-c259d3252ec5">
+<img width="450" alt="Screenshot 2023-05-14 185515" src="https://github.com/navz99/EZtrip-Tour-Mangement-App/assets/91715504/04a961d0-65be-4bba-be2b-d4e669b66b54">
+
 
 <h3>Booking Page </h3>
-![Screenshot 2![Screenshot 2023-05-14 185626](https://github.com/navz99/EZtrip-Tour-Mangement-App/assets/91715504/bc495786-cc62-489b-8eb0-1a5ebdd09ad7)
-023-05-14 185555](https://github.com/navz99/EZtrip-Tour-Mangement-App/assets/91715504/e3020ae8-0e87-4cce-bc9c-1b4c5add4240)
-![Uploading Screenshot 2023-05-14 185626.png…]()
+<img width="450" alt="Screenshot 2023-05-14 185555" src="https://github.com/navz99/EZtrip-Tour-Mangement-App/assets/91715504/79a84a5c-ac4d-46bb-a179-0affd42acdb1">
+<img width="450" alt="Screenshot 2023-05-14 185626" src="https://github.com/navz99/EZtrip-Tour-Mangement-App/assets/91715504/b0a8cb25-c08e-47c1-8203-0692fa7bc592">
+
 
 <h3>Register Page </h3>
-![Screenshot 2023-05-14 185515](https://github.com/navz99/EZtrip-Tour-Mangement-App/assets/91715504/04c309b7-220c-48a5-9596-e421dc0c2c71)
-
+<img width="450" alt="Screenshot 2023-05-14 185515" src="https://github.com/navz99/EZtrip-Tour-Mangement-App/assets/91715504/43c72fe8-3a12-410f-9ccb-a5930e58efa2">
